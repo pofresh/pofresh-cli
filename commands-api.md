@@ -47,7 +47,7 @@ example : exec /home/user/xxx.js
 script file is executed through [**vm**](http://nodejs.org/api/vm.html)  
 vm context is   
 ```
-var context = {
+let context = {
   app: this.app,
   require: require,
   os: require("os"),
@@ -61,7 +61,7 @@ so in script files you should use **result** to get the return value
 
 getCPUs.js
 ```
-var cpus = os.cpus();
+let cpus = os.cpus();
 result = util.inspect(cpus,true,null);
 ```
 

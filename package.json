@@ -1,6 +1,6 @@
 {
   "name": "pofresh-cli",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Pofresh command line client for managing pofresh",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,6 @@
     "pofresh-logger": ">=1.0.0",
     "async": ">=0.1.0"
   },
-  "author": "fantasyni",
+  "author": "luson",
   "license": "MIT"
 }
