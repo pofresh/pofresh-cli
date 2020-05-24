@@ -19,8 +19,8 @@
   "dependencies": {
     "optimist": ">=0.6.0",
     "cliff": ">=0.1.8",
-    "pofresh-admin": ">=1.0.0",
-    "pofresh-logger": ">=1.0.0",
+    "pofresh-admin": ">=2.0.0",
+    "pofresh-logger": ">=2.0.0",
     "async": ">=0.1.0"
   },
   "author": "luson",
