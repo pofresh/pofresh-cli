@@ -18,8 +18,6 @@ if (extra && extra.length) {
 }
 
 function showHelp() {
-    let HELP_LOGIN = consts.HELP_LOGIN;
-    for (let i = 0; i < HELP_LOGIN.length; i++) {
-        util.log(HELP_LOGIN[i]);
-    }
+    const HELP_LOGIN = consts.HELP_LOGIN;
+    HELP_LOGIN.forEach(help => util.log(help));
 }

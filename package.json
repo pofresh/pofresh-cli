@@ -20,7 +20,7 @@
     "optimist": ">=0.6.0",
     "cliff": ">=0.1.8",
     "pofresh-admin": ">=2.0.0",
-    "pofresh-logger": ">=2.0.0",
+    "pofresh-logger": ">=2.0.2",
     "async": ">=0.1.0"
   },
   "author": "luson",

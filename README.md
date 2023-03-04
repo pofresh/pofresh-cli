@@ -23,7 +23,7 @@ pofresh-cli -h 127.0.0.1 -P 3005 -u monitor -p monitor
 
 After that, pofresh-cli will enter repl mode. You can type 'help' for more information. 
 Enjoy it:
-![pofresh-cli help](http://ww1.sinaimg.cn/mw690/b7bc844fgw1eaa5s16o2uj20hv0k4whw.jpg)
+![pofresh-cli help](https://luson.oss-cn-hongkong.aliyuncs.com/images/pofresh-cli.png?Expires=1676806852&OSSAccessKeyId=TMP.3Kg3kxGwKp2oy6rDj9nJYnyGugApBELJ4rpCsu8EW6GAKcLNm5wozpHmtuFZgeTopsrXhpHSxuw79stGZCeodRANo5J2aU&Signature=FtBvAiYz2TlRKfARZrkJetn1kuM%3D)
 
 ## Links
 [user level control](https://github.com/ljhsai/pofresh-admin#user-level-control)  
